@@ -1,6 +1,6 @@
 ### Welcome, I'm Cihan Karahan
 
-Information security engineer and MSc Computer Science student at Sapienza University of Rome.
+Cybersecurity engineer and MSc Computer Science student at Sapienza University of Rome.
 At work I build application security into software delivery; at university I work on machine learning and multi-agent systems.
 
 - **Now:** Information Security Specialist at Beko (Arçelik) · MSc Computer Science at Sapienza, graduating summer 2027
